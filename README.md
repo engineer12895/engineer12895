@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/engineer12895?tab=repositories](https://github.com/engineer12895?tab=repositories)
 
-- 💬 Ask me about **Machine Learning,Deep learning, NLP**
+- 💬 Ask me about **Machine Learning,Deep learning, NLP ,RAG and AI chatbot**
 
 - 📫 How to reach me **0346-3186682**
 
